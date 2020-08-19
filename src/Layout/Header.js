@@ -25,7 +25,7 @@ const Header = () => {
     <Navbar color="info" light expand="md">
       <NavbarBrand>
         <Link to="/" className="text-white">
-          Amber gitfire app
+          Amber git app
         </Link>
       </NavbarBrand>
       <NavbarText className="text-white">
